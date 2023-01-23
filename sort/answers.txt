@@ -1,0 +1,11 @@
+sort1 uses: Bubble Sort
+
+How do you know?: The running time is slower than sort2 (Merge Sort) and it's pretty the same with the sort3. But at the best case (sorted data), it much faster than sort 3. The time complexity for the Buble sort at the upperbound is O(n^2) and at the lowerbound is Omega(n)
+
+sort2 uses: Merge Sort
+
+How do you know?: The running time is the fastest among others. Especially for the 50.000 data test, it much faster. The time complexity for the upperbound and lower bound is O(n.logn) & Omega(n.logn)
+
+sort3 uses: Selection Sort
+
+How do you know?: The running time is slower than sort2 (Merge Sort) and it's pretty the same with the sort3. The time complexity for the upperbound and lower bound is O(n^2) & Omega(n^2)
